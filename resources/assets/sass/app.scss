@@ -1,0 +1,22 @@
+
+// Fonts
+// @import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+// @import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+body{
+	background-color:#080028;
+	padding-top: 70px;
+}
+
+header.jumbotron{
+	background-image: url('../images/dota2_wallpaper.png');
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+	color : white;
+	
+}
